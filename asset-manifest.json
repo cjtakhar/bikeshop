@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bikeshop/static/css/main.7452a52a.css",
+    "main.js": "/bikeshop/static/js/main.0bfee57f.js",
+    "static/js/787.92f25571.chunk.js": "/bikeshop/static/js/787.92f25571.chunk.js",
+    "index.html": "/bikeshop/index.html",
+    "main.7452a52a.css.map": "/bikeshop/static/css/main.7452a52a.css.map",
+    "main.0bfee57f.js.map": "/bikeshop/static/js/main.0bfee57f.js.map",
+    "787.92f25571.chunk.js.map": "/bikeshop/static/js/787.92f25571.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7452a52a.css",
+    "static/js/main.0bfee57f.js"
+  ]
+}
