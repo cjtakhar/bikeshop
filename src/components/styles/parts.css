@@ -1,0 +1,42 @@
+.parts-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.parts-list {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+.parts-item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .part {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .img-90 {
+    height: 200px;
+    width: 200px;
+    transform: rotate(90deg);
+  }
+
+  .parts-total {
+    margin-top: 100px;
+  }
